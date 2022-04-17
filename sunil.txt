@@ -3,5 +3,10 @@
 1. this is the first new file.
 2. this is first file.
 3.  this is the newst line.
+<<<<<<< HEAD
 4. new line added.
 5. another new line added.
+=======
+4. this is the new line.
+5. another new line added.
+>>>>>>> aab3e3b33820d92c9a9ee036ad926799216d953e
