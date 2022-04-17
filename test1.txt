@@ -1,2 +1,3 @@
+////////comments are highlighted///////////////
 this is first file
 this is the newst line................
